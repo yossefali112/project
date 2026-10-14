@@ -1,0 +1,97 @@
+
+head{background-color: black;}
+#jo{width:200px
+    ;}
+#jo{ margin:0px 0px 0px 0px ;
+padding: 15px;
+border-radius: 50%;
+display: block;
+border: #38BDF8 solid ;
+
+}
+body{
+    background-color: #0F172A;
+color: #F8FAFC;
+font-size: 15px;}
+
+#head{margin: 0px 30px 0px 40%;}
+    
+
+.class{margin:50%}
+#me{margin: 15px 20px;
+    color: #F8FAFC;
+font-size: 15px;
+padding: 15px 15px;
+border: #38BDF8 solid 2px;
+border-radius: 40px;
+}
+#timeline{margin: 15px 20px;
+    color: #F8FAFC;
+font-size: 15px;
+padding: 15px 15px;
+border: #38BDF8 solid 3px;
+border-radius: 40px;
+}
+#contact{margin: 15px 20px;
+    color: #F8FAFC;
+font-size: 15px;
+padding: 15px 15px;
+border: #38BDF8 solid 3px;
+border-radius: 40px;
+}
+#tag1{background-color: #1E293B;
+padding: 20px;
+margin: 20px;
+border-radius: 20px;}
+
+
+ #tag2{ background-color: #1E293B;padding: 20px;
+margin: 20px;
+border-radius: 20px; }
+
+#tag3{background-color:#1E293B;padding: 20px;
+margin: 20px;
+border-radius: 20px;}
+
+#aboutme{ border:#38BDF8 3px solid; width: 90px;
+padding: 3px 3px 3px 3px;
+border-radius: 40px;
+;}
+
+#Experiencetimeline{border: #38BDF8 3px solid; width: 201px;
+    border-radius: 40px;
+padding: 4px 3px 3px 10px;}
+
+#contactme{border: #38BDF8 3px solid; width: 105px;
+    border-radius: 40px;
+padding: 3px 3px 3px 3px;}
+ 
+#job1{width: 50px ; border-radius: 50%;
+}
+#job2{width: 50px ; border-radius: 50%;}
+
+.job3{width: 50px ; border-radius: 50%;}
+
+#job4{width: 50px ; border-radius: 50%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
