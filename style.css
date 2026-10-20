@@ -49,6 +49,18 @@ border: #38BDF8 solid 3px;
 border-radius: 40px;
 background-color: darkblue;
 }
+
+
+#skills{margin: 15px 20px;
+    color: #F8FAFC;
+font-size: 15px;
+padding: 15px 15px;
+border: #38BDF8 solid 3px;
+border-radius: 40px;
+background-color: darkblue;}
+
+
+
 #tag1{background-color: #1E293B;
 padding: 20px;
 margin-top: 30px;
@@ -61,7 +73,6 @@ border-radius: 20px;}
 #tag3{background-color:#1E293B;padding: 20px;
 margin-top: 20px;
 border-radius: 20px;}
-
 #aboutme{ 
     margin-top:10px ;
     
@@ -74,12 +85,14 @@ border-radius: 40px;
 #Experiencetimeline{border: #38BDF8 3px solid; width: 201px;
     border-radius: 40px;
     background-color:  #38BDF8;
-padding: 4px 3px 3px 10px;}
+padding: 4px 3px 3px 10px;
+margin-top: 30px;}
 
 #contactme{border: #38BDF8 3px solid; width: 105px;
     border-radius: 40px;
     background-color:  #38BDF8;
-padding: 3px 3px 3px 3px;}
+padding: 3px 3px 3px 3px;
+margin-top: 5px;}
  
 #job1{width: 50px ; border-radius: 50%;
 }
@@ -93,14 +106,18 @@ padding: 3px 3px 3px 3px;}
 
 #tag2 .class{float: left; width: 22%;
 margin: 1%; padding: 20px; box-sizing: border-box;
-background-color: #1E293B
+background-color: #122038
 }
 #tag2 .class img {width: 25%; ; object-fit: contain; border-radius: 60px;}
 
- #tag2{ background-color: #1E293B;
+ #tag2{ background-color: #16243c;
 border-radius: 20px;
 }
 #clear{clear: both;}
+
+.clear {
+    clear: both;
+}
 
 span{background-color: #38BDF8;}
 
@@ -109,9 +126,36 @@ border: #38BDF8 solid 3px;
 border-radius: 5px;
 color: white;}
 
+#tag4{background-color: #1E293B; 
+border-radius: 20px; margin-top: 20px;}
+
+#tag4 .forntend{float: left; width: 22%;
+margin: 1%; padding: 20px; box-sizing: border-box;
+background-color: #122036}
+#clear{clear: both;}
+#tag4 #skills{ margin-top:10px ;
+    
+    border:#38BDF8 3px solid; width: 40px;
+padding: 5px;
+background-color:  #38BDF8;
+border-radius: 40px;}
+
+#tag4 #skills{font-size: 20px;}
+
+.contact-me{background-color:#38BDF8;
+border: #38BDF8 solid 3px;
+width: 250px    ;
+border-radius: 5px;}
 
 
 
-
-
-
+.footer{background-color: #101112;
+        color: #F8FAFC;
+        text-align: center;
+        padding: 20px;
+        margin-top: 50px;
+    width: 80%;
+margin: auto;
+    border-radius: 20px;
+    font-size: 15px;
+}
